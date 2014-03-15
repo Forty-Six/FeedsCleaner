@@ -1,0 +1,10 @@
+{
+ "P_FEEDSCLEANER_CLEAN":"Nettoyer",
+ "P_FEEDSCLEANER_CLEAN_CONFIRM":"Êtes vous sûr de vouloir nettoyer ce flux ?",
+ "P_FEEDSCLEANER_DESCRIPTION":"<b>Feeds Cleaner</b> supprime les <span class='FS_feedsCleaner_read'>articles lus</span> tout en préservant vos <span class='FS_feedsCleaner_favorites'>favoris</span>.",
+ "P_FEEDSCLEANER_FAVS":"Fav(s)",
+ "P_FEEDSCLEANER_READ":"Lu(s)",
+ "P_FEEDSCLEANER_TITLE":"Plugin Feeds Cleaner",
+ "P_FEEDSCLEANER_TOTAL":"Total",
+ "YOU_MUST_BE_CONNECTED_ACTION":""
+}

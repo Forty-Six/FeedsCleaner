@@ -1,0 +1,10 @@
+{
+ "P_FEEDSCLEANER_CLEAN":"Clean",
+ "P_FEEDSCLEANER_CLEAN_CONFIRM":"Are you sure you want to clean up this stream?",
+ "P_FEEDSCLEANER_DESCRIPTION":"<b>Feeds Cleaner</b> removes <span class='FS_feedsCleaner_read'>read articles</span> while preserving your <span class='FS_feedsCleaner_favorites'>favorites</span>.",
+ "P_FEEDSCLEANER_FAVS":"Fav(s)",
+ "P_FEEDSCLEANER_READ":"Read(s)",
+ "P_FEEDSCLEANER_TITLE":"Feeds Cleaner plugin",
+ "P_FEEDSCLEANER_TOTAL":"Total",
+ "YOU_MUST_BE_CONNECTED_ACTION":""
+}

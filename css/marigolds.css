@@ -1,0 +1,36 @@
+.FS_feedsCleaner_row td {
+	text-align: center;
+	vertical-align: middle;
+}
+
+.FS_feedsCleaner_row:hover {
+	background-color: #eee;
+}
+
+.FS_feedsCleaner_row_title {
+	border-bottom: solid 1px #000;
+	border-top: solid 1px #000;
+	background-color: #f0f0f0;
+}
+
+td.FS_feedsCleaner_feed_name {
+	text-align: left;
+}
+
+.FS_feedsCleaner_Button {
+}
+
+.FS_feedsCleaner_Button:hover {
+	background-color: #d44dd4;
+}
+
+.FS_feedsCleaner_read {
+	font-weight: bold;
+	color:#E44D26;
+}
+
+.FS_feedsCleaner_favorites {
+	font-weight: bold;
+	color:#000000;
+}
+
